@@ -28,7 +28,7 @@ Hence I need to modify this function to tranform my COCO dataset into the same f
 
 1. Dataset folders: They contain images of my own eye, thus avoiding data protection problems.
 
-2. The folder which contains the results of the model (It is called "output")
+2. The folder which contains the results of the model without the model, because is bigger than the size allowed (The folder is called "output").
 
 3. Two scripts: 
 - "labelme2coco_GitHub.ipynb"
