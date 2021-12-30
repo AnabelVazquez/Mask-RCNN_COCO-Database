@@ -26,7 +26,10 @@ Hence I need to modify this function to tranform my COCO dataset into the same f
 
 # Files that I uploaded:
 
-1. Dataset folders: They contain images of my own eye, thus avoiding data protection problems.
+1. COCO Dataset "COCO_Dataset_IzqIzq.json"
+
+I prettended to upload the whole folders of Training and Test images, but they have a bigger size than GitHub allowed, so I only upload COCO Dataset
+The dataset folders contain images of my own eye, thus avoiding data protection problems.
 
 2. The folder which contains the results of the model without the model, because is bigger than the size allowed (The folder is called "output").
 
